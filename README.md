@@ -1,2 +1,2 @@
-# Python
-EZ Technology 
+# EZ Technologies
+Python
